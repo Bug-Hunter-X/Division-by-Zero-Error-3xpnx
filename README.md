@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C++: division by zero. The `bug.cpp` file contains the erroneous code, while `bugSolution.cpp` provides a corrected version.  The error is handled by adding a check to prevent division by zero.  This highlights the importance of robust error handling in C++ applications.
